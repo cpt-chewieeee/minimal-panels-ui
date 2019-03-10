@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/.github.io/minimal-panels-ui/precache-manifest.f6f8d02668b8927d6b973b92f47711a9.js"
+  "/minimal-panels-ui/precache-manifest.26fb6c86d475e1d5c4df9c38be18fb28.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/.github.io/minimal-panels-ui/index.html", {
+workbox.routing.registerNavigationRoute("/minimal-panels-ui/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
