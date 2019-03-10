@@ -2,7 +2,7 @@
   "name": "minimal-panels",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://cpt-chewieeee/.github.io/minimal-panels-ui",
+  "homepage": "http://cpt-chewieeee.github.io/minimal-panels-ui",
   "dependencies": {
     "animate.css": "^3.7.0",
     "classnames": "^2.2.6",
